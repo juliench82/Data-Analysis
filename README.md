@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> performs data analysis and visualization on a sample dataset using pandas and matplotlib
+> performs data analysis and visualization on a sample dataset using pandas, matplotlib, seaborn, numpy
 
 ## Usage
 
